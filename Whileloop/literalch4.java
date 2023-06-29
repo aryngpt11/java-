@@ -11,6 +11,7 @@ public class literalch4 {
         int c=sc.nextInt();
         int d=(a+b+c);
         System.out.println("The sum of three no is: "+d);
+        sc.close();
 
     }
 
