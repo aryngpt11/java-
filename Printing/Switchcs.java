@@ -14,6 +14,7 @@ public class Switchcs {
             break;
             default:System.out.println("Invalid input");
         }
+        sc.close();
     }
 
     
