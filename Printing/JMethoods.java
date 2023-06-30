@@ -1,4 +1,4 @@
-package Printing;
+
 
 public class JMethoods {
     public static void main(String[] args) {

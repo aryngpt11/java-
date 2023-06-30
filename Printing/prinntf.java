@@ -1,4 +1,4 @@
-package Printing;
+
 
 public class prinntf {
     public static void main(String[] args) {
