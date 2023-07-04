@@ -14,6 +14,7 @@ public class Reversse {
 
         }
         System.out.println(rev);
+        sc.close();
     }
     
 }

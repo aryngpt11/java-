@@ -8,8 +8,7 @@ public class Armstronngg {
         System.out.println("Enetr the number to check the number is armstrong or not: ");
         n=sc.nextInt();
         int m=n;
-        int r;
-        int summ=0;
+        int summ=0,r;
         while(n>0){
             r=n%10;
             summ=summ+r*r*r;
