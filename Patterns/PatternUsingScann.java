@@ -13,6 +13,7 @@ public class PatternUsingScann {
             }
             System.out.println("");
         }
+        sc.close();
     }
     
 }
