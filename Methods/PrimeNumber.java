@@ -12,17 +12,19 @@ public class PrimeNumber {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the value you want to check that the number is prime or not: ");
-        int n=sc.nextInt();
+        int p=sc.nextInt();
         
        // System.out.println(isPrime(n));
-        boolean c=isPrime(n);
+        boolean c=isPrime(p);
         if (c==true){
-            System.out.println(n+" is a prime number");
+            System.out.println(p+" is a prime number");
         }
         else{
-            System.out.println(n+" is not a prime number");
+            System.out.println(p+" is not a prime number");
         }
+        sc.close();
         
     }
+    
     
 }
