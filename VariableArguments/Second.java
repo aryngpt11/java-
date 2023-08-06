@@ -1,6 +1,6 @@
 package VariableArguments;
 
-public class Secont {
+public class Second {
     void showList(String ...S){
         /* for(String a:S){
             System.out.println(a);
@@ -10,7 +10,7 @@ public class Secont {
         }
     }
     public static void main(String[] args) {
-        Secont s=new Secont();
+        Second s=new Second();
         s.showList("Aryan","Arya","Prince","Juli","Raj","Shweta");
     }
     
