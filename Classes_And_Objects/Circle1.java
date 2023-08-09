@@ -2,7 +2,7 @@ package Classes_And_Objects;
 
 
 
-import java.util.Scanner;
+import java.util.*;
 
 
 class Circle {
